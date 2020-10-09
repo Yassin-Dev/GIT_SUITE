@@ -10,6 +10,8 @@ namespace GIT_SUITE
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Wejdene");
         }
     }
 }
