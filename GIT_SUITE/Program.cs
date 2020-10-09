@@ -13,7 +13,7 @@ namespace GIT_SUITE
 
             Console.WriteLine("Wejdene");
 
-            //ihfsdihsid
+           
         }
     }
 }
