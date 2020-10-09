@@ -12,6 +12,9 @@ namespace GIT_SUITE
         {
 
             Console.WriteLine("Wejdene");
+            Console.ReadLine();
+            Console.ReadLine();
+
 
            
         }
