@@ -11,8 +11,10 @@ namespace GIT_SUITE
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Wejdene");
+            Console.WriteLine("Yassine");
             Console.ReadLine();
+            Console.ReadLine();
+
            
         }
     }
